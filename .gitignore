@@ -1,0 +1,7 @@
+node_modules
+.expo
+.expo-shared
+.DS_Store
+.env
+screens/LoginScreen.js
+danfry1-spotify
