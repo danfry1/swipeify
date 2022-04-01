@@ -1,1 +1,1 @@
-# spotifry
+# Swipeify
